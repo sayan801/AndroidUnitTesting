@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7340002f-950c-4ab6-868c-42f2ade29ddf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservice" afterPath="$PROJECT_DIR$/webservice" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemperatureConverter/.idea/misc.xml" afterPath="$PROJECT_DIR$/TemperatureConverter/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webservice/.gitignore" afterPath="$PROJECT_DIR$/webservice/.gitignore" />
     </list>
     <ignored path="Temperature Converter.iws" />
@@ -60,6 +63,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -70,12 +79,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
